@@ -1,13 +1,6 @@
 # TaskFlow
 
 A modern full-stack Kanban Task Management application built with the MERN stack. Manage tasks using an intuitive drag-and-drop interface with instant updates, priority levels, due dates, and persistent storage.
-
-## Live Demo
-
-Frontend: (Add Vercel URL)
-
-Backend API: (Add Render URL)
-
 ---
 
 ## Features
