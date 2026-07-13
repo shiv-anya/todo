@@ -61,7 +61,7 @@ todo/
 │   ├── controllers/
 │   ├── models/
 │   ├── routes/
-│   ├── middleware/
+│   ├── config/
 │   ├── package.json
 │   └── server.js
 │
